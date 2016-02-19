@@ -1,5 +1,5 @@
 html body {
-  background-image: url("/images/samHeadRoof.jpg");
+  background-image: url("../images/samHeadRoof.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
